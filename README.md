@@ -1,4 +1,4 @@
-# Chatbots_RAG_LLM 
+# RAG_Chatbots_LLM 
 
 
 ### [1.A book assistant chatbot using Python,embedding-based retrieval strategies, and GPT-2](https://github.com/kavyapan/RAG_Chatbot_LLM/tree/main/RAG_BookRecommendation_Chatbot_GPT2) 
