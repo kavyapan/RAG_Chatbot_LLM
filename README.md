@@ -40,8 +40,7 @@ In this Project the Streamlit app allows users to ask questions based on the con
 
 
 #### Requirements
-Before running the app, ensure you have the necessary modules and dependencies installed. You can install them using the following command:  
-'pip install -r requirements.txt'  
-Also in the .env file paste your Google API Key.
+1.Before running the app, ensure you have the necessary modules and dependencies installed. You can install them using the following command:'pip install -r requirements.txt'  
+2.In the .env file paste your Google API Key.
 
 
