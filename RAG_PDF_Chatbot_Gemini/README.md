@@ -18,7 +18,7 @@ In this Project the Streamlit app allows users to ask questions based on the con
 **1.Upload PDF Files** : Click on the "Upload PDF Files" button in the sidebar and select one or multiple PDF files containing the content you want to query.  
 **2.Ask Questions**: Once the PDF files are uploaded, type your question in the text input field labeled "Ask any Question from uploaded PDF Files".  
 **3.Submit**: Click on the "Submit" button to process the question and retrieve the answer.  
-
+![Chatbot Response](https://github.com/kavyapan/RAG_Chatbot_LLM/blob/main/RAG_PDF_Chatbot_Gemini/Chatbot_reponse1.JPG)
 
 #### Requirements
 1.Before running the app, ensure you have the necessary modules and dependencies installed. You can install them using the following command:
